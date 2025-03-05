@@ -1,4 +1,4 @@
-# fine-tuninn
+# fine-tuning
 
 **WIP**
 - [ ] LLM fine tuning
